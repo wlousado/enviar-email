@@ -35,6 +35,7 @@ obs: Você precisa configurar essa função conforme seu ambiente,
 alterando os destinatários, cópias, e servidor smtp
 
 3 - Resultado final:
+
 ![email](https://raw.githubusercontent.com/wlousado/enviar-email/master/screenshot/e-mail.png)
 
 
