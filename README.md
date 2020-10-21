@@ -28,10 +28,14 @@ Exemplo:
 1 - Popular o arquivo CSV da plataforma (data_example.csv)
 obs: nesta estrutura separei por |E-mail|Usuario|senha
 
+![data](https://raw.githubusercontent.com/wlousado/enviar-email/master/screenshot/data_example.png)
+
 2 - É preciso chamar a função main para que seja invocada e faça o seu papel.
+obs: Você precisa configurar essa função conforme seu ambiente,
+alterando os destinatários, cópias, e servidor smtp
 
 3 - Resultado final:
-![Exemplo5](http://gitlab.dimed.com.br/wlousado/enviaemail/-/raw/master/screenshot/ex5.png)
+![email](https://raw.githubusercontent.com/wlousado/enviar-email/master/screenshot/e-mail.png)
 
 
 Dúvidas estou a disposição!
